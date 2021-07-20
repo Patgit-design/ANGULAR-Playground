@@ -1,6 +1,6 @@
 # ANGULAR-Playground
 
-##Angular CLI
+## Angular CLI
 
 1. `ng new nomduprojet`
 2. `ng serve` (ctrl C to quit)
